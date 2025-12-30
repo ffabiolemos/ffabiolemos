@@ -1,4 +1,4 @@
-Olá, eu sou o Fábio! 👋  
+Olá, eu sou o Fabio! 👋  
 
 📊 **Analista de Dados em formação**  
 📗 Apaixonado por aprendizado contínuo e por transformar dados em insights  
